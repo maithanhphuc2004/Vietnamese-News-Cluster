@@ -1,5 +1,4 @@
-# 📰 Electronic News Clustering using NLP & Machine Learning  
-*(Phân cụm nội dung bài báo điện tử bằng NLP & Machine Learning)*
+# 📰 Vietnamese-News-Cluster
 
 ## 🔖 Model Badges  
 *(Các mô hình sử dụng trong nghiên cứu)*
